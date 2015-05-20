@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "babel-core": "5.4.3",
+    "babel-loader": "5.1.2",
+    "bragi-browser": "0.0.11",
+    "gulp-webpack": "1.4.0",
+    "jsx-loader": "0.13.2",
+    "lodash": "3.8.0",
+    "react": "0.13.3",
+    "react-tools": "0.13.3",
+    "webpack": "1.9.6"
+  }
+}
